@@ -35,8 +35,8 @@
           "!type": "External",
           "file": [
             "forms",
-            "Form1",
-            "Form1.json"
+            "calculator",
+            "calculator.json"
           ]
         }
       ],
