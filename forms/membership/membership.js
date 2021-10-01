@@ -9,4 +9,5 @@ if (members.includes(username))
   lblResults.textContent =`${username}, you have been added to the membership roster. `
 }
 console.log(members)
+console.log("Neha")
 }
