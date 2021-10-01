@@ -8,4 +8,5 @@ if (members.includes(username))
   members.push(username)
   lblResults.textContent =`${username}, you have been added to the membership roster. `
 }
+console.log(members)
 }
