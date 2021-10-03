@@ -2,7 +2,7 @@
   "!type": "Form",
   "HTML": null,
   "attributes": "",
-  "background": "",
+  "background": "#ffffff",
   "backgroundimage": "",
   "borderColor": "",
   "borderStyle": "",
@@ -14,54 +14,54 @@
       "!type": "External",
       "file": [
         "forms",
-        "calculator",
+        "newControls",
         "Elements",
-        "input1.json"
+        "Card1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "calculator",
+        "newControls",
         "Elements",
-        "input2.json"
+        "Slider1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "calculator",
+        "newControls",
         "Elements",
-        "Button2.json"
+        "Toast1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "calculator",
+        "newControls",
         "Elements",
-        "Alert1.json"
+        "Button3.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "calculator",
+        "newControls",
         "Elements",
-        "Button2Copy.json"
+        "DataTable1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "calculator",
+        "newControls",
         "Elements",
-        "Input1.json"
+        "Progressbar1.json"
       ]
     }
   ],
@@ -71,7 +71,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "calculator",
+  "id": "newControls",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
