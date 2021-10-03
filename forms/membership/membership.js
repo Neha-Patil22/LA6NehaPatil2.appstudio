@@ -1,4 +1,4 @@
-/*
+
 let members = ["Mary","Sam","Joey","Paul","Mike","Char","Jenny","Kennedy","Kaden","Kurt","Anne"]
 
 btnSubmit.onclick = function(){
@@ -12,4 +12,4 @@ if (members.includes(username))
 console.log(members)
 console.log("Neha")
 }
-*/
+

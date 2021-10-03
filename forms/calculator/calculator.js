@@ -3,7 +3,7 @@ depending on which the user wants to do, displays the answer, and then clears th
 All output to the user is prefaced with the users' name:  Bob, the answer is 42.
 */
 
-/*
+
 function  add(n1,n2){
   answer=n1+n2
   return answer
@@ -21,6 +21,5 @@ Button2.onclick=function(){
   Input1.value = " "
   input1.value=" "
   input2.value= " "
-}
-*
+
 
